@@ -20,17 +20,17 @@
 
 
 3. 마크다운 문법에서 글씨의 크기를 키우고 싶다고해서 본문을 제목으로 지정하면 안된다. (맞으면 O, 틀리면 X)
-   - 답 : O
-   - 이유 : 제목으로 지정하면 문서를 볼 때 헷갈릴 수 있다.
+   - 답 : 
+   - 이유 : 
 
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 : X
-   - 이유 : Working Directory, Staging Area, Repository가 있다.
+   - 답 : 
+   - 이유 : 
 
 
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
-   - 답 : X
-   - 이유 : ID는 고유하다.
+   - 답 : 
+   - 이유 : 
